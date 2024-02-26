@@ -1,4 +1,4 @@
-### Hi ,welcome to my profile 👋
+### Hi, welcome to my profile 👋
 I'm Gabriel da Silva, a Computer Engineering Student at PUC-Rio
 
 - 🏫 I’m currently studying about Neural Networks and Deep Learning.
