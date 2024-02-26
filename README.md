@@ -1,16 +1,26 @@
-### Hi there 👋
+Hi there, I'm Bilgehan - aka Bgstatic 
+GIF
 
-<!--
-**gabr1el-silva/gabr1el-silva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science and Engineering Student
+👨‍💻 I’m currently working on web development technologies like JavaScript, React etc.
+📚 I’m currently learning everything about Frontend and Backend technologies 😅
+💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
+⚡ Fun fact: I love to play pool and snooker 🎱.
+GIF
 
-Here are some ideas to get you started:
+Spotify Playing 🎧
+Spotify
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Contact with me 📝
+bilgehangecici.sitebilgehangecici | LinkedInbilgehangecici | Instagrambilgehangecici | Spotify
+
+
+Languages and Tools 🛠
+Java C Python JavaScript React HTML5 CSS3 Sass Bootstrap Markdown Nodejs Npm Firebase Microsoft Sql Server Git GitLab GitHub VS Code Eclipse-IDE Powershell Windows
+
+
+
+Github Statistics 📈
+ 
