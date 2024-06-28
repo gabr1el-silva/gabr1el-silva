@@ -9,5 +9,5 @@ I'm Gabriel da Silva, a Computer Engineering Student at PUC-Rio
    
 Following is my github stats
   
-[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=gabr1el-silva)](https://github.com/gabr1el-silva/github-readme-stats)  
+[![Gabriel's github stats](https://github-readme-stats.vercel.app/api?username=GabSMF)](https://github.com/gabr1el-silva/github-readme-stats)  
   
